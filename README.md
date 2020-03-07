@@ -1,2 +1,2 @@
 # vc
-A simple visitor counter for joomla 3.x
+A simple visitor counter for Joomla! 3.x
