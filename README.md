@@ -5,4 +5,4 @@ Installation:
 
 1. Download the extension and compress the files in a ZIP file before uploading it
 2. Follow the procedure: https://docs.joomla.org/Installing_an_extension
-3. Enable the "Visitor Counter" extension: https://www.smartaddons.com/documentation/how-to-enable-modules-and-plugins-for-joomla-3-x/
+3. Enable the "Visitor Counter" extension.
